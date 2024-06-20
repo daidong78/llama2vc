@@ -1,0 +1,23 @@
+﻿  run.c
+E:\llama2vc\run.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\llama2vc\run.c(145,17): warning C4047: “函数”:“FILE **”与“FILE *”的间接级别不同
+E:\llama2vc\run.c(145,13): warning C4024: “fopen_s”: 形参和实参 1 的类型不同
+E:\llama2vc\run.c(157,11): warning C4013: “open”未定义；假设外部返回 int
+E:\llama2vc\run.c(175,24): warning C4013: “close”未定义；假设外部返回 int
+E:\llama2vc\run.c(299,32): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+E:\llama2vc\run.c(256,35): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\llama2vc\run.c(399,17): warning C4047: “函数”:“FILE **”与“FILE *”的间接级别不同
+E:\llama2vc\run.c(399,13): warning C4024: “fopen_s”: 形参和实参 1 的类型不同
+E:\llama2vc\run.c(546,41): warning C4047: “函数”:“const size_t”与“char [5]”的间接级别不同
+E:\llama2vc\run.c(546,35): warning C4024: “sprintf_s”: 形参和实参 2 的类型不同
+E:\llama2vc\run.c(725,31): warning C4244: “return”: 从“time_t”转换到“long”，可能丢失数据
+E:\llama2vc\run.c(790,23): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\llama2vc\run.c(848,59): warning C4047: “函数”:“const size_t”与“char [39]”的间接级别不同
+E:\llama2vc\run.c(848,44): warning C4024: “sprintf_s”: 形参和实参 2 的类型不同
+E:\llama2vc\run.c(851,57): warning C4047: “函数”:“const size_t”与“char [18]”的间接级别不同
+E:\llama2vc\run.c(851,44): warning C4024: “sprintf_s”: 形参和实参 2 的类型不同
+E:\llama2vc\run.c(820,9): warning C4101: “prev_token”: 未引用的局部变量
+E:\llama2vc\run.c(929,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\llama2vc\run.c(930,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\llama2vc\run.c(943,45): warning C4305: “=”: 从“double”到“float”截断
+  llama2vc.vcxproj -> E:\llama2vc\x64\Debug\llama2vc.exe
